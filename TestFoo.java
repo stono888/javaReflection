@@ -1,5 +1,13 @@
 package com.srie.test;
 
+/**
+ * @author ThinkPad
+ * 任何一个类是java.lang.Class的实例对象；
+ * 这个实例有三种表达方式；
+ * 每种方式称为Foo类的类类型（class type）;
+ * 必须有无参构造函数才可以用newInstance()方法才可以创建实例；
+ *
+ */
 public class TestFoo {
 
 	public static void main(String[] args) {
